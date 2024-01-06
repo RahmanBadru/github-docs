@@ -53,6 +53,10 @@ Good cloud engineers use codeblocks for both code and errors that appearin the c
 ```bash
 TypeError: can only concatenate str (not "int") to str
 ```
+## Step 2 - Using Screenshots
+
+Don't take screenshots using your phone
+
 ## Step 3 - Use Github Flavored Markdown task lists
 
 Github extends Markdown to have a list where you can check off items <sup>[1]</sup>
@@ -84,6 +88,8 @@ You can use the following markdown format to create tables
 | Cloud with lightning | `:cloud_with_lightning:`| 🌩️
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
+
+![Screenshot of my laptop](assets/Edit.png)
 
 ## External References
 
